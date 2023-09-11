@@ -1,0 +1,3 @@
+/home/lyc/proj/Test/build/CMakeFiles/main.dir
+/home/lyc/proj/Test/build/CMakeFiles/edit_cache.dir
+/home/lyc/proj/Test/build/CMakeFiles/rebuild_cache.dir
