@@ -8,6 +8,8 @@ int main(void)
     cout << "Hello, world!" << endl;
     cout << CONST_VALUE << endl;
 
+    cout<<"new"<<endl;
+
 
     return 0;
 }
