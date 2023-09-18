@@ -11,5 +11,7 @@ int main(void)
     cout<<"new"<<endl;
 
 
+    cout<<"new new"<<endl;
+
     return 0;
 }
