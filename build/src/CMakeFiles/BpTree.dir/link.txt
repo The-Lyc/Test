@@ -1,0 +1,2 @@
+/usr/bin/ar qc libBpTree.a CMakeFiles/BpTree.dir/BPlusTreeStruct.cpp.o CMakeFiles/BpTree.dir/Insert.cpp.o CMakeFiles/BpTree.dir/Delete.cpp.o
+/usr/bin/ranlib libBpTree.a
